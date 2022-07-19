@@ -14,4 +14,6 @@ function submitListener(event) {
     document.exm01.largura.value,
     document.exm01.altura.value
   );
+
+  document.exm01.reset();
 }
